@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/harry-potter/static/css/main.cf91517c.css",
-    "main.js": "/harry-potter/static/js/main.bdcc4005.js",
-    "index.html": "/harry-potter/index.html",
-    "main.cf91517c.css.map": "/harry-potter/static/css/main.cf91517c.css.map",
-    "main.bdcc4005.js.map": "/harry-potter/static/js/main.bdcc4005.js.map"
+    "main.css": "/Harry-Potter-Characters/static/css/main.cf91517c.css",
+    "main.js": "/Harry-Potter-Characters/static/js/main.bdcc4005.js",
+    "index.html": "/Harry-Potter-Characters/index.html",
+    "main.cf91517c.css.map": "/Harry-Potter-Characters/static/css/main.cf91517c.css.map",
+    "main.bdcc4005.js.map": "/Harry-Potter-Characters/static/js/main.bdcc4005.js.map"
   },
   "entrypoints": [
     "static/css/main.cf91517c.css",
