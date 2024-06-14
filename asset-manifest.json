@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/harry-potter/static/css/main.cf91517c.css",
+    "main.js": "/harry-potter/static/js/main.bdcc4005.js",
+    "index.html": "/harry-potter/index.html",
+    "main.cf91517c.css.map": "/harry-potter/static/css/main.cf91517c.css.map",
+    "main.bdcc4005.js.map": "/harry-potter/static/js/main.bdcc4005.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf91517c.css",
+    "static/js/main.bdcc4005.js"
+  ]
+}
